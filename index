@@ -3,3 +3,7 @@ This is done using the master branch
 This is some addition to the file with the master branch after we made some changes 
 in the testing branch, and we checkout back to the master branch to make some 
 modifications.
+
+
+This modifications are added from the dev2. We should keep both modifications from the 
+dev1 and the dev2.

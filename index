@@ -5,3 +5,6 @@ in the testing branch, and we checkout back to the master branch to make some
 modifications.
 
 Some files that are added from the dev1 branch.
+
+This modifications are added from the dev2. We should keep both modifications from the 
+dev1 and the dev2.

@@ -8,3 +8,5 @@ Some files that are added from the dev1 branch.
 
 This modifications are added from the dev2. We should keep both modifications from the 
 dev1 and the dev2.
+
+Current line are added by the develop local branch. It must be pushed to the remote server.
